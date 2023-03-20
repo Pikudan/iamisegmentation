@@ -6,6 +6,6 @@
 The markup contains 4 classes:  
 
 &ensp;&ensp;0 - background. 
-&ensp;&ensp;1 - visceral fat, bones, organs. 
+&ensp;&ensp;1 - visceral fat, bones, organs.  
 &ensp;&ensp;2 - muscles and intramuscular fat, bones. 
 &ensp;&ensp;3 - subcutaneous fat. 
